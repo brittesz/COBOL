@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:LUZIAFERq
+      * Author:LUZIAFER
       * Date:2025
-      * Purpose:Study
+      * Purpose:Studying
       * Content: My first HELLO WORLD IN COBOL
       ******************************************************************
        IDENTIFICATION DIVISION.
